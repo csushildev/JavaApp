@@ -1,5 +1,5 @@
 # kubernetes-configmap-reload
-
+### Steps from ramndom Online Archive #####
 Pre-requisites:
 --------
     - Install Git
@@ -9,7 +9,7 @@ Pre-requisites:
     
 Clone code from github:
 -------
-    git clone https://github.com/vikash-kumar01/spring-cloud-kubernetes.git
+    #git clone https://github.com/vikash-kumar01/spring-cloud-kubernetes.git
     cd spring-cloud-kubernetes/kubernetes-configmap-reload
     
 Build Maven Artifact:
@@ -18,7 +18,7 @@ Build Maven Artifact:
  
 Build Docker image for Springboot Application
 --------------
-    docker build -t vikashashoke/kubernetes-configmap-reload .
+    #docker build -t vikashashoke/kubernetes-configmap-reload .
   
 Docker login
 -------------
